@@ -1,0 +1,16 @@
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\DocsifySidebarUpdaterV2.exe
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\DocsifySidebarUpdaterV2.deps.json
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\DocsifySidebarUpdaterV2.runtimeconfig.json
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\DocsifySidebarUpdaterV2.runtimeconfig.dev.json
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\DocsifySidebarUpdaterV2.dll
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\ref\DocsifySidebarUpdaterV2.dll
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\bin\Debug\net5.0\DocsifySidebarUpdaterV2.pdb
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.csproj.AssemblyReference.cache
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.AssemblyInfoInputs.cache
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.AssemblyInfo.cs
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.csproj.CoreCompileInputs.cache
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.dll
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\ref\DocsifySidebarUpdaterV2.dll
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.pdb
+C:\Users\ck\Desktop\CS_Projects\DocsifySidebarUpdaterV2\obj\Debug\net5.0\DocsifySidebarUpdaterV2.genruntimeconfig.cache
